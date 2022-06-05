@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2361500531",
+    "project_id": "fluttere-commerce-a1957",
+    "storage_bucket": "fluttere-commerce-a1957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2361500531:android:8f528553dd903c2b839b06",
+        "android_client_info": {
+          "package_name": "com.example.my_novel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2361500531-gokphmf43ll45ktkrjdg92curu0de31u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApXSM08uBiGNMATrjX3vAs_mEK11klhWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2361500531-gokphmf43ll45ktkrjdg92curu0de31u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
