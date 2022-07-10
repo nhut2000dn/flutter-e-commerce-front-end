@@ -18,7 +18,7 @@ import 'route_generator.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
-  // createBrands();
+  createBrands();
   // createAccount();
   // createUsersRoles();
   // createCategories();
